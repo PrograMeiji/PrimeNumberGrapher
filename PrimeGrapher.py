@@ -1,3 +1,5 @@
+# This program has the user select spiral direction, then graphs the Ulam Spiral using prime numbers.
+# Written by Bryan Johnston - 2/28/2022
 import math
 from tkinter import *
 import time
